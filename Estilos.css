@@ -1,0 +1,49 @@
+
+<style>
+
+body{
+       background-image: url("fondo2.jpg");
+}
+
+table{
+
+	text-align: center;
+	background-color: #334d4d;
+	opacity: 0.95;
+	width: 70%;
+}
+
+
+
+
+a:link {
+  color: #0059b3;
+}
+
+
+a:visited {
+  color: #660000;
+}
+
+
+a:hover {
+  color: #2db300;
+}
+
+
+a:active {
+  color: #476b6b;
+}
+
+
+
+	.img1{
+height:200px;
+width:200px;
+}
+
+.img2{
+height:300px;
+width:300px;
+}	
+</style>
